@@ -16,9 +16,9 @@ function App() {
   return (
     <div>
       <div className="container">
-        <h1>Top {tvShows.length} British Series</h1>
+        <h1>Top {shows.length} British Series</h1>
       </div>
-    {tvShows.map((element => {
+    {shows.map((element => {
       const { id, name, seasons } = element;
       return (
         <div key={id}>
