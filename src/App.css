@@ -40,6 +40,21 @@ h3 {
 
 }
 
+.buttonTwo {
+  display: flex;
+  justify-content: space-evenly;
+
+}
+
+.btnTwo {
+  background-color: #7fb4fb;
+  border-radius: 5px;
+  color: #fff;
+  padding: 10px;
+  border: none;
+  text-transform: uppercase;
+}
+
 button {
   background: white;
   border: none;
