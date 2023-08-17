@@ -2,7 +2,7 @@ import { useState } from "react";
 
 function Season({ seasons }) {
   const [series, setSeries] = useState(0);
-  const currentSeason = seasons[series]; // Update currentSeason based on series index
+  const currentSeason = seasons[series]; 
 
   const [showMore, setShowMore] = useState(false);
 
