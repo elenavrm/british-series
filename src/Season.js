@@ -1,19 +1,24 @@
 import { useState } from "react";
 import { tvShows } from "./data";
 
-function Season(props) {
-const { seasons } = props;
+function Season({ seasons }) {
 
-const [series, setSeries] = useState(0);
-const [season, image, description] = tvShows[series];
-console.log(seasons)
-
-
+    const currentSeason = seasons[0];
+  
     return (
+      <div>
         <div className="container">
-        <h2>{props.season}</h2>
+          <img src={currentSeason.image} alt="poster" width="300px" />
         </div>
-    )
-}
-
-export default Season;
+        <div className="container">
+          <h2>{currentSeason.season}</h2>
+        </div>
+        <div className="container">
+          <h3>{currentSeason.description}</h3>
+        </div>
+    </div>
+    
+    );
+  }
+  
+  export default Season;
