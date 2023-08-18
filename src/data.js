@@ -12,7 +12,7 @@ export const tvShows = [
         },
         {
             season: "Season II ",
-            image: "https://upload.wikimedia.org/wikipedia/en/b/ba/The_Crown_season_2.jpeg",
+            image: "https://www.themoviedb.org/t/p/w500/sWPgOyn6Ae9iIpxNpEHLrr12I3Q.jpg",
             description: "In 'The Crown' Season 2, the story covers the period from the mid-1950s to the mid-1960s, focusing on significant historical events such as the Suez Crisis and the Profumo Affair. The season also delves into the challenges faced by Queen Elizabeth II in both her public and private life, as well as the evolving dynamics within the royal family."
         },
         {
@@ -48,12 +48,12 @@ export const tvShows = [
         },
         {
             season: "Season III",
-            image: "https://i.pinimg.com/474x/c6/86/09/c686096a1611f181b5212afad176e42d.jpg",
+            image: "https://flxt.tmsimg.com/assets/p12819972_b_v4_aa.jpg",
             description: "Season 3 of 'Peaky Blinders' continues to explore the Shelby family's criminal activities and their efforts to expand their influence. In this season, Tommy Shelby, the family's charismatic leader, becomes embroiled in more complex schemes, alliances, and conflicts, all while facing new challenges that test his leadership. The season delves deeper into the characters' personal struggles, relationships, and the consequences of their actions. The blend of historical context, compelling characters, and intricate plotting makes 'Peaky Blinders' a popular and engaging series for viewers"
         },
         {
             season: "Season IV ",
-            image: "https://wogifts.com/wp-content/uploads/2022/03/peaky-blinders-thomas-shelby-poster-wall_1648663581.jpg",
+            image: "https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/d7590f135861167.61ef6fb49f8e4.jpg",
             description: "In Season 4 of 'Peaky Blinders', the Shelby crime family faces new challenges and threats as they continue to expand their empire. The season picks up with Thomas Shelby (played by Cillian Murphy) and his family members attempting to establish themselves as legitimate business owners while still navigating the criminal underworld. As they strive to solidify their position, they encounter new adversaries, including the Italian mafia, led by Luca Changretta (played by Adrien Brody). The season is marked by power struggles, betrayals, and tense confrontations, as the Shelby family's loyalty and unity are put to the test. Thomas Shelby must rely on his wits and resourcefulness more than ever to protect his family and maintain control over their operations"
         },
         {
