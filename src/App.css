@@ -75,3 +75,19 @@ button {
   font-weight: bolder;
 }
 
+@media all and (max-width: 500px) {
+  h1 {
+    font-size: 25;
+  }
+
+  h2 {
+    font-size: 19px;
+  }
+
+  h3 {
+    font-size: 14px;
+  }
+
+
+}
+
