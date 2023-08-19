@@ -13,7 +13,7 @@ Welcome to the British Series Web App! Immerse yourself in the captivating world
 
 ## Demo 📺
 
-Check out the live demo of the British Series Web App: [British Series](https://64e00cc74a5d7e0009c915a8--subtle-lamington-8361ee.netlify.app/)
+Check out the live demo of the British Series Web App: [British Series](https://subtle-lamington-8361ee.netlify.app/)
 
 
 ## Technologies Used 🛠️
