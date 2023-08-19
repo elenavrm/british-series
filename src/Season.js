@@ -8,7 +8,7 @@ function Season({ seasons }) {
 
   const previousShow = () => {
     setSeries((series) => {
-      let newSeries = series - 1;
+      let newSeries = series --;
       if (newSeries < 0) {
         newSeries = seasons.length - 1;
       }

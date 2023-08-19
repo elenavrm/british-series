@@ -1,5 +1,3 @@
-import Season from "./Season"
-
 export const tvShows = [
 {
     id: 1,
